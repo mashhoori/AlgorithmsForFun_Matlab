@@ -6,3 +6,8 @@ Implementation of some random algorithms in Matlab
 2- An algorithm to produce all permutations of the members of a list 
 
 3- Recursive solution to Hanoi Towers problem
+
+
+4- 
+
+
